@@ -4,6 +4,7 @@ BOOT({
 	CONFIG : {
 		isDevMode : true,
 		defaultBoxName : 'Consolia',
+		title : 'Consolia',
 		webServerPort : 8121
 	},
 	NODE_CONFIG : {
